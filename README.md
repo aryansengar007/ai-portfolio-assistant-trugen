@@ -4,7 +4,7 @@ This project is an interactive AI-powered portfolio assistant that represents my
 
 The assistant helps recruiters and visitors explore my projects, skills, certifications, and experience in real time.
 
-[![Dashboard Screenshot](/agent-demo.png)](/agent-demo.png)
+[![Dashboard Screenshot](agent-demo)](agent-demo)
 
 ---
 
