@@ -131,7 +131,7 @@ This assistant was built to demonstrate how **Generative AI** can transform a tr
 
 ### Aryan Sengar
 
-🎓 **B.Tech CSE (AI & ML)** @ The NorthCap University &nbsp;|&nbsp; 🌍 Gurgaon, India
+🎓 **B.Tech CSE (AI & ML)** &nbsp;|&nbsp; 🌍 Gurgaon, India
 
 <br/>
 
